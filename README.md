@@ -6,3 +6,10 @@
 </h2>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+⛹️‍♂️ I am currently busy with this work:
+⚡️ Learning Redux
+⚡️ Learning Nest.js
+⚡️ Learning React
+⚡️ Learning Next.js
