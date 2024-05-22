@@ -29,7 +29,7 @@
 ⚡️ Learning React
 ⚡️ Learning Next.js
 
-<h2 align="right">🌱 I am learning these now:</h2>
+<h2 align="left">🌱 I am learning these now:</h2>
 <h3 align="left">🔮 React.Js | 40%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="150px" height="16px">
 <br>
 <h3 align="left">🔮 Next.Js | 10%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="200px" height="16px">
