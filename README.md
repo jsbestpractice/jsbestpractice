@@ -4,7 +4,7 @@
 <h2 align="left">
   My name is Mehdi , I love programming.
 </h2>
-<br><br>
+<br>
 
 <h2 align="left">
   🎓 Skills and tools I use:
