@@ -43,8 +43,9 @@
 <br><br>
 
 
-<h2 align="right"> ☎️ Contact me :</h2>
-<a href="https://github.com/jsbestpractice"><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/github-contribution-grid-snake.svg" alt="YouTube"></a>
+<h2 align="left"> ☎️ Contact me :</h2>
+<a href="https://github.com/jsbestpractice">
+  <img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/github.png?raw=true" alt="YouTube"></a>
 <a href="https://t.me/beutifulidea"><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/instagram.png" alt="Instagram"></a> 
 <a href="https://twitter.com/beutifulidea"><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/twitter.png" alt="Twitter"></a>
 
