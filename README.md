@@ -45,9 +45,14 @@
 
 <h2 align="left"> ☎️ Contact me :</h2>
 <a href="https://github.com/jsbestpractice">
-  <img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/icons8-github-30.png" alt="github"></a>
-<a href="https://t.me/beutifulidea"><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/instagram.png" alt="telegram"></a> 
-<a href="https://twitter.com/beutifulidea"><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/twitter.png" alt="Twitter"></a>
+  <img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/icons8-github-30.png" alt="github">
+</a>
+<a href="https://t.me/beutifulidea">
+  <img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/icons8-telegram-30.png?raw=true" alt="telegram">
+</a> 
+<a href="https://twitter.com/beutifulidea">
+  <img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/twitter.png" alt="Twitter">
+</a>
 
 
 
