@@ -4,11 +4,11 @@
 <h2 align="left">
   My name is Mehdi , I love programming.
 </h2>
+<br><br>
 
 <h2 align="left">
   🎓 Skills and tools I use:
 </h2>
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -20,6 +20,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<br><br>
 
 <h2 align="left">
 ⛹️‍♂️ I am currently busy with this work:
@@ -29,6 +30,7 @@
 ⚡️ Learning React
 ⚡️ Learning Next.js
 
+<br><br>
 <h2 align="left">🌱 I am learning these now:</h2>
 <h3 align="left">🔮 React.Js | 40%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="150px" height="16px">
 <br>
