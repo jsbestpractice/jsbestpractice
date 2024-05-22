@@ -28,3 +28,13 @@
 ⚡️ Learning Nest.js
 ⚡️ Learning React
 ⚡️ Learning Next.js
+
+<h2 align="right">🌱 I am learning these now:</h2>
+<h3 align="left">🔮 React.Js | 40%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="150px" height="16px">
+<br>
+<h3 align="left">🔮 Next.Js | 10%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="200px" height="16px">
+<br>
+<h3 align="left">🔮 Express.Js | 75%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="375px" height="16px">
+<br>
+<h3 align="left">🔮 MongoDB | 55%</h3><img align="left" src="https://github.com/jsbestpractice/jsbestpractice/blob/main/images/bar.png" width="275px" height="16px">
+<br>
