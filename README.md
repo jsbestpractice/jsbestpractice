@@ -5,6 +5,9 @@
   My name is Mehdi , I love programming.
 </h2>
 
+<h2 align="center">
+  🎓 Skills and tools I use:
+</h2>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -17,7 +20,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+<h2 align="center">
 ⛹️‍♂️ I am currently busy with this work:
+</h2>
 ⚡️ Learning Redux
 ⚡️ Learning Nest.js
 ⚡️ Learning React
